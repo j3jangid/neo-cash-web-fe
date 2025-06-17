@@ -1,0 +1,88 @@
+body {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.pageHeading {
+  font-size: 30px;
+  font-weight: bold;
+  margin: 0;
+  color: #497FFA;
+}
+
+.pageSubHeading {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  color: #45c998;
+  /* color: #497FFA; */
+}
+
+.footerHeading {
+  font-size: 20px;
+  font-weight: bold;
+  margin: 0;
+  color: #56FEC1;
+  /* color: #497FFA; */
+}
+
+.boxHeading {
+  font-size: 15px;
+  font-weight: bold;
+  margin: 0;
+  color: black;
+  text-decoration: none;
+}
+
+.regularText {
+  margin: 0;
+  color: rgb(67, 67, 67);
+  text-decoration: none;
+}
+
+.footerLinkText {
+  margin: 0;
+  color: #497FFA;
+  text-decoration: underline;
+}
+
+.footerText {
+  margin: 0;
+  color: #497FFA;
+  text-decoration: none;
+}
+
+.inputLable {
+  /* font-weight: bold; */
+  margin: 0;
+  color: #497FFA;
+}
+
+.selectedNav {
+  color: #497FFA;
+  text-decoration: underline;
+}
+
+.themeTextColor {
+  color: #497FFA;
+}
+
+.lightBackground {
+  background-color: #497FFA;
+}
+
+.footerBackground {
+  /* background: linear-gradient(#F5F5F5, #497FFA); */
+  /* background-color: #497FFA; */
+  background-color: black;
+}
+
+.cardHoverEffect {
+  transition: 0.3s ease-in-out;
+}
+
+.cardHoverEffect:hover {
+  background-color: #56FEC1;
+}
