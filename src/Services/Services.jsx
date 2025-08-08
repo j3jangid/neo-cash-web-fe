@@ -1,6 +1,6 @@
 import { Paper } from '@mui/material'
 import services from '../jsonData/services'
-import servicePageIng from '../img/servi.png'
+import servicePageIng from '../img/Copilot_20250801_160936.png'
 import { useNavigate } from 'react-router-dom'
 import { companyName } from '../jsonData/companyData'
 

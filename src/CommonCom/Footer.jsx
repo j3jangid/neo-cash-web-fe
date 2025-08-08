@@ -2,8 +2,8 @@
 import React from 'react'
 import { PiBuildingOfficeBold } from 'react-icons/pi'
 import { Link } from 'react-router-dom'
-import logo from '../LOGO FILE/LOGO WHITE NETWORKS.png'
-import { contactDetails, supportContact } from '../jsonData/companyData'
+// import logo from '../LOGO FILE/LOGO WHITE NETWORKS.png'
+import { contactDetails, footerLogo, supportContact } from '../jsonData/companyData'
 
 function Footer() {
     return (
@@ -53,7 +53,7 @@ function Footer() {
                         <div style={{ height: '100%' }} className='d-flex flex-column justify-content-center align-items-center'>
                             <span>
                                 <img
-                                    src={logo}
+                                    src={footerLogo}
                                     alt="Logo"
                                     width={130}
                                     className='img-fluid'

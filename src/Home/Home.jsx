@@ -1,5 +1,6 @@
 import { Paper } from '@mui/material'
-import wellcomeImg from '../img/vecteezy_digital-payment-system-secure-fast-and-convenient-online_54716341.webp'
+import wellcomeImg from '../img/3d-render-money-transfer-mobile-banking-online.jpg'
+// import wellcomeImg from '../img/vecteezy_digital-payment-system-secure-fast-and-convenient-online_54716341.webp'
 import wellcomeImg1 from '../img/vecteezy_global-business-growth-analyst-and-asset-investment-chart_27244714.png'
 import services from '../jsonData/services'
 import { useNavigate } from 'react-router-dom'
